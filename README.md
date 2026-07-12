@@ -19,7 +19,7 @@ The firmware is developed for the **ESP8266 NodeMCU** and is responsible for mon
 
 ## Main File
 
-* `Door_Monitoring_System.ino` – Main firmware source code for the ESP8266.
+* `firmware` – Main source code for the ESP8266.
 
 ## Hardware
 
