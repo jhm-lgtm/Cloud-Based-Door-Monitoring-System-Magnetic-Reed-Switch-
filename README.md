@@ -1,4 +1,4 @@
-# Cloud-Based-Door-Monitoring-System-Magnetic-Reed-Switch-
+# Cloud-Based-Door-Monitoring-System-Magnetic-Reed-Switch
 Designed to provide affordable and reliable perimeter security, this IoT setup utilizes magnetic reed sensors. Any break in the magnetic alignment (door opening) triggers a hardware interrupt on the ESP8266, which immediately transmits the event timestamp to a cloud dashboard. The system can activate local sirens and instant mobile push alerts.
 
 ## Firmware
