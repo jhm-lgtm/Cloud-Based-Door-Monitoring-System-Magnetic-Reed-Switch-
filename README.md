@@ -51,3 +51,5 @@ The firmware is developed for the **ESP8266 NodeMCU** and is responsible for mon
 * Update the Wi-Fi SSID and password before uploading.
 * Configure the cloud platform credentials (such as API keys or database URL) in the firmware.
 * Verify that the reed switch is connected to the correct GPIO pin defined in the code.
+
+![image alt](https://github.com/jhm-lgtm/Cloud-Based-Door-Monitoring-System-Magnetic-Reed-Switch-/blob/4c9f9ac820b65ed4e58d5d6f3b151d37ceaf7753/Screenshot%202026-07-14%20121911.png)
